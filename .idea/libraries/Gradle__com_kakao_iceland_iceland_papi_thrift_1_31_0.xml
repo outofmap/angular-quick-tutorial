@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.kakao.iceland:iceland-papi-thrift:1.31.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kakao.iceland/iceland-papi-thrift/1.31.0/5a55887c5de493da7ab49674c756d30cd6d8f008/iceland-papi-thrift-1.31.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kakao.iceland/iceland-papi-thrift/1.31.0/5689666d045abc0eaecf1f4a9558d93d9acd68ef/iceland-papi-thrift-1.31.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

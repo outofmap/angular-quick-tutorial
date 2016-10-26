@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.daum.crm:messageMVC:1.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.daum.crm/messageMVC/1.0.1-SNAPSHOT/cea6c40319261e9bc5e61a2d741c1b38d21c0044/messageMVC-1.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.daum.crm/messageMVC/1.0.1-SNAPSHOT/bfdc738d9c63e01db6362df5c4d6bff170027cb0/messageMVC-1.0.1-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

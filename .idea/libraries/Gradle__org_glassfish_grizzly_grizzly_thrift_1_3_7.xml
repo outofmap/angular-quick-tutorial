@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.grizzly:grizzly-thrift:1.3.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.grizzly/grizzly-thrift/1.3.7/bb1f18ede738dcb7c474b4f8218071965c8fd62a/grizzly-thrift-1.3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.grizzly/grizzly-thrift/1.3.7/646c3b3def2d3a6f65a462fb6b70affa77a634a2/grizzly-thrift-1.3.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

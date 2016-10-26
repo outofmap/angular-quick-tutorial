@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.kakao.common:common-thrift:2.0.18">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kakao.common/common-thrift/2.0.18/f31c7429203c296a96d70185b3a7d17857766967/common-thrift-2.0.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kakao.common/common-thrift/2.0.18/48d383a968c40344824b6dfb7511a28d1352defa/common-thrift-2.0.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
