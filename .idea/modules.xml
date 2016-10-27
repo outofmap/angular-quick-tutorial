@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pg-partner-admin.iml" filepath="$PROJECT_DIR$/.idea/modules/pg-partner-admin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pg-partner-admin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pg-partner-admin_main.iml" group="pg-partner-admin" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pg-partner-admin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pg-partner-admin_test.iml" group="pg-partner-admin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/angular-tutorial.iml" filepath="$PROJECT_DIR$/.idea/modules/angular-tutorial.iml" />
     </modules>
   </component>
 </project>
