@@ -1,7 +1,5 @@
-/**
- * Created by solar on 2016. 10. 31..
- */
-import { InMemoryDbService } from 'angular-in-memory-web-api';
+import {InMemoryDbService} from "angular-in-memory-web-api";
+
 export class InMemoryDataService implements InMemoryDbService {
 	createDb() {
 		let heroes = [

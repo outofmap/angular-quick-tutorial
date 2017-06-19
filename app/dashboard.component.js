@@ -8,9 +8,6 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-/**
- * Created by solar on 2016. 10. 27..
- */
 var core_1 = require('@angular/core');
 var hero_service_1 = require('./hero.service');
 var router_1 = require('@angular/router');

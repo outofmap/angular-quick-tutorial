@@ -1,6 +1,3 @@
-/**
- * Created by solar on 2016. 10. 27..
- */
 import { Component, OnInit } from '@angular/core';
 
 import { Hero } from './hero';

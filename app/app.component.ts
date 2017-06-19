@@ -1,7 +1,5 @@
-/**
- * Created by solar on 2016. 10. 27..
- */
 import { Component } from '@angular/core';
+
 @Component({
 	moduleId: module.id,
 	selector: 'my-app',

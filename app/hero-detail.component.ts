@@ -1,6 +1,3 @@
-/**
- * Created by solar on 2016. 10. 26..
- */
 import { Component, Input, OnInit } from '@angular/core';
 import { ActivatedRoute, Params }   from '@angular/router';
 import { Location }                 from '@angular/common';
@@ -36,5 +33,7 @@ export class HeroDetailComponent implements OnInit{
 		this.location.back();
 	}
 
-
+	save(): void {
+		this.heroService.update(this.hero).then(()=> this.goBack());
+	}
 }
